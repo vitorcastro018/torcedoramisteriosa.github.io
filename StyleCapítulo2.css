@@ -1,0 +1,23 @@
+body{
+    background-image: url(back2.jpg);
+}
+h1{
+    color: rgb(255, 153, 153);
+    
+    font-size: 50px;
+}
+
+h2{
+    font-size: 25;
+    color: tomato;
+
+}
+p{
+    color: white;
+    
+    font-size: 15px;
+}
+footer{
+    font-size: 27px;
+    color: violet;
+}

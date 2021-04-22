@@ -1,0 +1,24 @@
+
+body{
+    background-image: url(Back3.jpg);
+}
+h1{
+    font-family: helvetica;
+    font-size: 30px;
+    width: 960px;
+    color: crimson;
+}
+p{
+    font-size: 18px;
+    font-family: helvetica;
+    color: rgb(138, 138, 138);
+
+}
+footer{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: turquoise;
+
+}
+
+

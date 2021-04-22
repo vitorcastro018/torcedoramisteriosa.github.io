@@ -1,0 +1,32 @@
+body{
+    background: url(Fundo.jpg);
+    margin: 0 auto;
+    width: 500px;
+}
+h1{
+    size: 30px;
+}
+nav{
+    font-size: 23px;
+    color: coral;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+}
+div{
+    border-style: inset;
+    border-width: 1em;
+    border-color: darksalmon;
+    padding: 2em;
+}
+a{
+    color: red;
+}
+h3{
+    font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: lime;
+}
